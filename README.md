@@ -4,7 +4,7 @@
 Implement the concept of the paper "Analysis of Performance Degradation in CdS Solar Cells," to solve the values of the five parameters given(I,Io,A,RS, and RSH) in Python.
 
 ## Repository structure
-- python code
+- Python code
 - Dataset
 
 ## Run
