@@ -9,7 +9,7 @@ Implement the concept of the paper "Analysis of Performance Degradation in CdS S
 
 ## Run
 - Install necessary packages via conda or pip etc
-- enclose dataset and main code in the same folder
+- Enclose dataset and main code in the same folder
 - Run python3 file.py or use jupyter notebook 
 
 ## Reference
